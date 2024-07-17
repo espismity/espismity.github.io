@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://espismity.github.io/sitemap
+Sitemap: https://espismity.github.io/app/sitemap
+Sitemap: https://espismity.github.io/assets/sitemap
+Sitemap: https://espismity.github.io/css/sitemap
+Sitemap: https://espismity.github.io/includes/sitemap
+Sitemap: https://espismity.github.io/item/sitemap
+Sitemap: https://espismity.github.io/src/sitemap
